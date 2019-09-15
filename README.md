@@ -8,3 +8,7 @@ Optimized the ALS algorithm with Spark RDD-based MLib API by minimizing root-mea
 
 Summarized the key insights by evaluating the model performance and investigating the underlying patterns of dataset.
 
+# The data
+
+https://grouplens.org/datasets/movielens/
+
